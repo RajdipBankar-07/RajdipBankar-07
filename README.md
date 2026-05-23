@@ -81,10 +81,9 @@
 
 <div align="center">
 
-# 🚀 Code. Learn. Build. Repeat.
+#  Code. Learn. Build. Repeat.
 
 ### ⭐ Thanks for visiting my profile!
 
-💙 If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
