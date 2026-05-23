@@ -2,13 +2,12 @@
 
 <div align="center">
 
-# 🚀 Full Stack Developer | Java Backend Developer
+#    Java Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+Developer;Backend+Engineering+Enthusiast;Problem+Solver+%7C+DSA+Learner" />
+
 
 </div>
 
----
 
 <div align="center">
 
