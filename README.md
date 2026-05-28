@@ -45,7 +45,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1O-kv5crFPvcdi55AB8bJd16u0ub6HGEr/view" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
 
 </div>
 
