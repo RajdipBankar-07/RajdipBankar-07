@@ -57,15 +57,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajdipbankar-07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajdipbankar-07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdipbankar-07&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdipbankar-07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rajdipbankar-07&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdipbankar-07&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdipbankar-07&bg_color=0d1117&color=90EE90&line=98FB98&point=FFFFFF&area=true&hide_border=true"/>
+[![Rajdip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajdipbankar-07&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
